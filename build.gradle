@@ -23,7 +23,7 @@ javafx {
 }
 
 application {
-    mainClass = 'io.github.cmlee93.downloadrouter.DownloadRouterApplication'
+    mainClass = 'downloadrouter.DownloadRouterApplication'
 }
 
 dependencies {
